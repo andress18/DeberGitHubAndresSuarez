@@ -1,0 +1,20 @@
+.blue-bg {
+  background-color: skyblue;
+}
+
+.gray-bg{
+    background-color: gray;
+}
+
+div{
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+.pink-bg{
+background-color: fuchsia;
+}
+
+.yellow-bg{
+    background-color: yellow;
+}
